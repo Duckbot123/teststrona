@@ -1,0 +1,21 @@
+body {
+    font-family: Arial;
+    color: rgb(85, 94, 96);
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h1 {
+    font-size: 34;
+}
+
+span {
+    color:rgb(85, 94, 96);
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
